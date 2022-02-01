@@ -11,3 +11,39 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+body{
+  background: linear-gradient(to right, #0062E6, #33AEFF);
+ 
+}
+
+.abd{
+  display: flex;
+  gap :16px;
+  padding-left: 200px;
+  border-radius: 50%;
+  padding-top:50px;
+  padding-bottom: 50px;
+
+}
+.mahi{
+  background-color: white;
+  padding: center;
+  border-radius: 5%;
+  width: 400px;
+  height: 450px;
+  padding-bottom: 50px;
+  padding-top:50px;
+  justify-content: space-between;
+  row-gap: 10px;
+}
+.oiii{
+opacity: 0.7;
+}
+h6{
+  font-size:35px;
+}
+h1{
+  background-color: orange;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
